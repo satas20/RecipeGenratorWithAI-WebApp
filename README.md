@@ -1,6 +1,5 @@
-# 🔍Recipe Generator🔍
-This is a recipe recommendation & generation app with the given ingredients from the user. For frontend, React and vanilla CSS is used. For the backend NodeJs and OpenAIAPI is used.
-
+# 🔍Recipe Generator with AI🔍
+This is a recipe recommendation & generation app that utilizes user-provided ingredients with the help of AI.  For frontend, React and vanilla CSS is used. NodeJs and OpenAI API is used for the backend. Since AI is used, ingredients are not language- or typo-sensitive, allowing users to input ingredients in any language.
 
 ## Live Demo
 You can acces the deployment from this link: [RecipeGenerator/onrender](https://recipegeneratorreactapp.onrender.com).
@@ -16,6 +15,12 @@ You can acces the deployment from this link: [RecipeGenerator/onrender](https://
 # How to Run
 
 ## For Backend
+
+Change the APIKEY with your own key in the .env file
+
+```bash
+OPENAI_API_KEY={Replace with your key}
+```
 
 Install project dependencies:
 ```bash
