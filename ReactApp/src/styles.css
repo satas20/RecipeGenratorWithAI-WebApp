@@ -297,5 +297,11 @@ body {
   }
   .recipeContainer{
     width: 300px;
+    justify-content: center;
   }
+  ul {
+    
+    padding: 0;
+    
+}
 }
