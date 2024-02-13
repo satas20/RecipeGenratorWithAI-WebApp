@@ -10,9 +10,11 @@ You can acces the deployment from this link: [RecipeGenerator/onrender](https://
 
 </h4>
 
-<img src="Media/RecipeAppGif.gif" height= "500">
-<img src="Media/SS1.png" width= "250"> <img src="Media/SS2.png" width= "250">
 
+<p align="center">
+  <img src="Media/RecipeAppGif.gif" height= "500">
+  <img src="Media/SS1.png" height= "500"> <img src="Media/SS2.png" height= "500">
+</p>
 # How to Run
 
 ## For Backend
