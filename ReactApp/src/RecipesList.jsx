@@ -6,7 +6,7 @@ const RecipeList = ({Recipes,loading}) => {
         <ul className="recipeContainer">
            {loading ? (
             <li>
-              <div class="loader"></div>
+              <div className="loader"></div>
 
             </li>
           ) : (

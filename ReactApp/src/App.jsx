@@ -69,7 +69,8 @@ const App = () => {
 
     let output='';
     setLoading(true);
-    axios.post('http://localhost:8080/chat', { prompt })
+    const url = `${import.meta.env.VITE_APP_API_URL}/chat`;
+    axios.post(url, { prompt })
       .then(response => {
         setOutput(response.data);
         console.log(output);
