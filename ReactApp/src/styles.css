@@ -283,3 +283,19 @@ body {
   animation: l3 1s infinite linear;
 }
 @keyframes l3 {to{transform: rotate(1turn)}}
+
+
+
+
+/* Tablet styles */
+@media only screen and (max-width: 1024px) {
+  .homePage {
+    display: flex;
+    flex-direction: column;
+    place-content: space-between;
+    gap: 1rem;
+  }
+  .recipeContainer{
+    width: 300px;
+  }
+}
