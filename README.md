@@ -16,6 +16,12 @@ You can acces the deployment from this link: [RecipeGenerator/onrender](https://
 
 ## For Backend
 
+Change the APIKEY with your own key in the .env file
+
+```bash
+OPENAI_API_KEY={Replace with your key}
+```
+
 Install project dependencies:
 ```bash
 npm install
