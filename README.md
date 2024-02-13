@@ -11,8 +11,7 @@ You can acces the deployment from this link: [RecipeGenerator/onrender](https://
 </h4>
 
 <img src="Media/RecipeAppGif.gif" height= "500">
-<img src="Media/Ss1.f" height= "250">
-<img src="Media/Ss2.f" height= "250">
+<img src="Media/SS1.png" width= "250"> <img src="Media/SS2.png" width= "250">
 
 # How to Run
 
